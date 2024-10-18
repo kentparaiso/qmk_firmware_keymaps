@@ -223,7 +223,7 @@
     ],
     [
       "KC_TRNS",
-      "ANY(MC_BACKTICKS)",
+      "KC_GRV",
       "ANY(MC_SINQUOT)",
       "KC_ESC",
       "ANY(MC_DBLQUOT)",
